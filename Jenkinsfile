@@ -16,6 +16,6 @@ node {
     }
     
     stage("Copy") {
-        sh "cp -a /var/lib/jenkins/workspace/SA_Practica/dist/Practica/. /home/jorge_espina/Escritorio/sa-practica-1/dist/Practica/"
+        #sh "cp -a /var/lib/jenkins/workspace/SA_Practica/dist/Practica/. /home/jorge_espina/Escritorio/sa-practica-1/dist/Practica/"
     }
 }
